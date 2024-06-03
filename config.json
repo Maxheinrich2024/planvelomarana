@@ -5,10 +5,9 @@
   },
   "assoName": "Vélo à Vienne",
   "assoLink": "https://lavilleavelo.org",
-  "slug": "voie-lyonnaise",
+  "slug": "voie-viennoise",
   "center": [
-    4.8312188,
-    45.757198
+    4.873966, 45.524909
   ],
   "zoom": 12,
   "colors": [
