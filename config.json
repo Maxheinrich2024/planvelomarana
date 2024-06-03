@@ -1,9 +1,9 @@
 {
   "revName": {
-    "plural": "Voies Lyonnaises",
-    "singular": "Voie Lyonnaise"
+    "plural": "Voies Viennoises",
+    "singular": "Voie Viennoise"
   },
-  "assoName": "La Ville à Vélo",
+  "assoName": "Vélo à Vienne",
   "assoLink": "https://lavilleavelo.org",
   "slug": "voie-lyonnaise",
   "center": [
