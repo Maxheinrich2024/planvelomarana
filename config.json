@@ -1,11 +1,11 @@
 {
   "revName": {
-    "plural": "Voies Viennoises",
-    "singular": "Voie Viennoise"
+    "plural": "Voies Cyclables à Marana Golo",
+    "singular": "Voie Cyclable à Marana Golo"
   },
-  "assoName": "Vélo à Vienne",
-  "assoLink": "https://lavilleavelo.org",
-  "slug": "voie-viennoise",
+  "assoName": "Vélo à Marana Golo",
+  "assoLink": "https://maranagolo.org",
+  "slug": "voie-cyclable-marana-golo",
   "center": [
     4.873966, 45.524909
   ],
