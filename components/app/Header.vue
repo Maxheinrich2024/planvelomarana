@@ -8,7 +8,7 @@
             <span class="sr-only">Marana Golo</span>
             <img
               class="h-8 w-auto sm:h-10"
-              src="/logo-marana-golo.png" 
+              src="Maxheinrich2024/planvelomarana/public/icons/LOGO MARANA GOLO.png" 
               alt="Logo Marana Golo"
             >
           </NuxtLink>
