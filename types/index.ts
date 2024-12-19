@@ -16,18 +16,18 @@ export type LaneStatus = 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 
 
 export type LineStringFeature = {
   type: 'Feature';
+  geometry: {
+    type: 'LineString';
+    coordinates: [number, number][];
+  };
   properties: {
-    id?: string
+    id?: string;
     line: number;
     name: string;
     status: LaneStatus;
     type: LaneType;
     doneAt?: string;
     link?: string;
-  };
-  geometry: {
-    type: 'LineString';
-    coordinates: [number, number][];
   };
 };
 
