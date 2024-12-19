@@ -4,11 +4,11 @@
 		{
 			"type" : "Feature",
 			"properties" : {
-				"line" : "2",
-				"name" : "null",
+				"line" : 2,
+				"name" : "tbc",
 				"status" : "planned",
 				"type" : "aucun",
-				"link" : "null",
+				"link" : "tbc",
 				"id" : 2
 			},
 			"geometry" : {
