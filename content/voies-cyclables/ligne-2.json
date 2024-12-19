@@ -1,9 +1,16 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "NewFeatureType",
 	"features" : [
 		{
 			"type" : "Feature",
+			"properties" : {
+				"line" : "2",
+				"name" : "null",
+				"status" : "planned",
+				"type" : "aucun",
+				"link" : "null",
+				"id" : 2
+			},
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
@@ -19,15 +26,7 @@
 					[ 9.4306950267, 42.5567062111 ],
 					[ 9.4306535228, 42.5567502059 ]
 				]
-			},
-			"properties" : {
-				"line" : "2",
-				"name" : null,
-				"status" : "planned",
-				"type" : "aucun",
-				"link" : null,
-				"id" : 2
-			}
+			}			
 		}
 	]
 }
