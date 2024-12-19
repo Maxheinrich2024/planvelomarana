@@ -17,7 +17,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "1"
 			}
@@ -333,7 +333,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "18"
 			}
@@ -377,7 +377,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "24"
 			}
@@ -650,7 +650,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "36"
 			}
@@ -904,7 +904,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "49"
 			}
@@ -924,7 +924,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "50"
 			}
@@ -1052,7 +1052,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "57"
 			}
@@ -1151,7 +1151,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "65"
 			}
@@ -1342,7 +1342,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "80"
 			}
@@ -1592,7 +1592,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "90"
 			}
@@ -2031,7 +2031,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "114"
 			}
@@ -2181,7 +2181,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "120"
 			}
@@ -2219,7 +2219,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "121"
 			}
@@ -2243,7 +2243,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "122"
 			}
@@ -2291,7 +2291,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "124"
 			}
@@ -2421,7 +2421,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "133"
 			}
@@ -2441,7 +2441,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "135"
 			}
@@ -2706,7 +2706,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "146"
 			}
@@ -2737,7 +2737,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "147"
 			}
@@ -2945,7 +2945,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "154"
 			}
@@ -2996,7 +2996,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "155"
 			}
@@ -3038,7 +3038,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "156"
 			}
@@ -3297,7 +3297,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "165"
 			}
@@ -3319,7 +3319,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "166"
 			}
@@ -3420,7 +3420,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "amgt-mixte-pieton-velo",
+				"type" : "voie-verte",
 				"link" : null,
 				"id" : "170"
 			}
@@ -3545,7 +3545,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "183"
 			}
@@ -3623,7 +3623,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "186"
 			}
@@ -3660,7 +3660,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "190"
 			}
@@ -3689,7 +3689,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "192"
 			}
@@ -3718,7 +3718,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "194"
 			}
@@ -3798,7 +3798,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "199"
 			}
@@ -4411,7 +4411,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "221"
 			}
@@ -4462,7 +4462,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "223"
 			}
@@ -5348,7 +5348,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "268"
 			}
@@ -5396,7 +5396,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "273"
 			}
@@ -5671,7 +5671,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "291"
 			}
@@ -5865,7 +5865,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "301"
 			}
@@ -5939,7 +5939,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "303"
 			}
@@ -6698,7 +6698,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "337"
 			}
@@ -6978,7 +6978,7 @@
 				"line" : 1,
 				"name" : null,
 				"status" : "planned",
-				"type" : "zone-30",
+				"type" : "zone-de-rencontre",
 				"link" : null,
 				"id" : "350"
 			}
