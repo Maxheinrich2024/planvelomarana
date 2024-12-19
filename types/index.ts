@@ -6,7 +6,9 @@ export type LaneType =
 | 'velorue'
 | 'voie-verte'
 | 'bandes-cyclables'
+| 'amgt-mixte-pieton-velo'
 | 'zone-de-rencontre'
+| 'zone-30'
 | 'aucun'
 | 'inconnu';
 
