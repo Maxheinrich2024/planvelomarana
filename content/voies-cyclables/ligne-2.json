@@ -1,18 +1,18 @@
 {
-	"type" : "FeatureCollection",
-	"features" : [
+	"type": "FeatureCollection",
+	"features": [
 		{
-			"type" : "Feature",
-			"properties" : {
-				"line" : 2,
-				"name" : "tbc",
-				"status" : "planned",
-				"type" : "aucun",
-				"link" : "tbc"
+			"type": "Feature",
+			"properties": {
+				"line": 2,
+				"name": "tbc",
+				"status": "planned",
+				"type": "aucun",
+				"link": "tbc"
 			},
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
 					[ 9.4314869015, 42.55592242 ],
 					[ 9.4315026813, 42.5559548405 ],
 					[ 9.4314968689, 42.5559795443 ],
