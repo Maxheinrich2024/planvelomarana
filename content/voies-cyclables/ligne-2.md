@@ -1,19 +1,9 @@
 ---
-name: Voie Viennoise 2
+name: Réseau de proximité
 line: 2
-from: Bosson Sud
-to: Bosson Nord
-description: Ligne 2 des voies viennoises.
-trafic: 8k vélos/jour
+from: Biguglia
+to: Lucciana
+description: C'est le réseau de desserte des pôles générateurs.
+trafic: A déterminer
 cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---
-
-## Les tronçons (du Nord au Sud)
-
-### Bosson Nord
-
-Description du tronçon Bosson Nord
-
-### Bosson Sud
-
-Description du tronçon Bosson Sud
