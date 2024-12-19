@@ -92,6 +92,3 @@ export function isPerspectiveFeature(feature: Feature): feature is PerspectiveFe
   return isPointFeature(feature) && feature.properties.type === 'perspective';
 }
 
-export function isCompteurFeature(feature: Feature): feature is CompteurFeature {
-  return isPointFeature(feature) && ['compteur-velo', 'compteur-voiture'].includes(feature.properties.type);
-}
