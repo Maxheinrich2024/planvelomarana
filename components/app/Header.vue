@@ -53,14 +53,7 @@
                       to="/evolution"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
-                    >
-                      Évolution du réseau
-                    </NuxtLink>
-                    <NuxtLink
-                      to="/plan-officiel"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-                      @click="close()"
-                    >
+            
                       Plan officiel
                     </NuxtLink>
                   </div>
