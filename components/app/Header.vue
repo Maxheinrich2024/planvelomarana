@@ -10,11 +10,7 @@
               src="https://s10.aconvert.com/convert/p3r68-cdx67/af8ur-pfn80.jpg"
               :alt="`logo ${getAssoName()}`"
             >
-            <img
-              class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
-              alt="logo cyclopolis"
-            >
+            
           </NuxtLink>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
