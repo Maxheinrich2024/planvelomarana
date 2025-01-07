@@ -4,18 +4,14 @@
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
           <NuxtLink to="/" class="flex space-x-2">
-            <span class="sr-only">Cyclopolis</span>
-            <img
-              class="h-7 w-auto sm:h-8"
-              src="/LOGO MARANA GOLO.png"
-              :alt="`logo ${getAssoName()}`"
-            >
-            <img
-              class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
-              alt="logo cyclopolis"
-            >
-          </NuxtLink>
+  <span class="sr-only">Marana Golo</span>
+  <img
+    class="h-8 w-auto sm:h-10"
+    src="/LOGO MARANA GOLO.png"
+    alt="logo Marana Golo"
+  >
+</NuxtLink>
+        
         </div>
         <div class="-mr-2 -my-2 md:hidden">
           <PopoverButton
