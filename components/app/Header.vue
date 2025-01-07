@@ -7,7 +7,7 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="/images/LOGO MARANA GOLO.png"
+              src="/LOGO MARANA GOLO.png"
               :alt="`logo ${getAssoName()}`"
             >
             <img
