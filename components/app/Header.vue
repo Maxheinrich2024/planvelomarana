@@ -6,7 +6,7 @@
           <NuxtLink to="/" class="flex space-x-2">
   <span class="sr-only">Marana Golo</span>
   <img
-    class="h-8 w-auto sm:h-10"
+    class="h-12 w-auto sm:h-16"
     src="/LOGO MARANA GOLO.png" 
     alt="logo Marana Golo"
   >
