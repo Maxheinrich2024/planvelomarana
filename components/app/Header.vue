@@ -7,7 +7,7 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+              src="/images/LOGO MARANA GOLO.png"
               :alt="`logo ${getAssoName()}`"
             >
             <img
