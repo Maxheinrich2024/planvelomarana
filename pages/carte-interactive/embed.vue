@@ -20,7 +20,7 @@ const { data: voies } = await useAsyncData(() => {
 const features = voies.value.map(voie => voie.features).flat();
 
 const description = `Découvrez la carte interactive des ${getRevName()}. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.`;
-const COVER_IMAGE_URL = '/INSRT LOGO MARANA GOLO';
+const COVER_IMAGE_URL = '/public/INSERT LOGO MARANA GOLO.png';
 useHead({
   title: `Carte à jour des ${getRevName()}`,
   meta: [
