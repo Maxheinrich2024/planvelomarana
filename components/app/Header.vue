@@ -7,7 +7,7 @@
   <span class="sr-only">Marana Golo</span>
   <img
     class="h-8 w-auto sm:h-10"
-    src="/LOGO MARANA GOLO.png"
+    src="/LOGO MARANA GOLO.png" 
     alt="logo Marana Golo"
   >
 </NuxtLink>
