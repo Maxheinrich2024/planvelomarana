@@ -3,7 +3,7 @@ import config from './config.json';
 const TITLE = `Cyclopolis - Suivi des ${config.revName.plural} par ${config.assoName}`;
 const DESCRIPTION =
   `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé lyonnais`;
-const BASE_URL = 'https://cyclopolis.fr';
+const BASE_URL = 'https://maranagolo.org';
 const COVER_IMAGE_URL = '/INSERT LOGO MARANA GOLO.png';
 
 export default defineNuxtConfig({
