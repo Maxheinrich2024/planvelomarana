@@ -21,7 +21,7 @@ const features = voies.value.map(voie => voie.features).flat();
 
 const description =
   `Découvrez la carte interactive des ${getRevName()}. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.`;
-const COVER_IMAGE_URL = '/INSERT LOGO MARANA GOLO.png';
+const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
 useHead({
   title: `Carte à jour des ${getRevName()}`,
   meta: [
