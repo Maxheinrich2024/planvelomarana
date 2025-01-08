@@ -4,7 +4,7 @@ const TITLE = `Cyclopolis - Suivi des ${config.revName.plural} par ${config.asso
 const DESCRIPTION =
   `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé lyonnais`;
 const BASE_URL = 'https://cyclopolis.fr';
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+const COVER_IMAGE_URL = '/INSERT LOGO MARANA GOLO.png';
 
 export default defineNuxtConfig({
   app: {
