@@ -2,7 +2,7 @@
   <div class="w-full">
     <img
       src="/icons/PLAN OFFICIEL.jpg"
-      class="object-contain w-full h-screen"
+      class="object-cover w-full h-screen"
       :alt="`plan officiel des ${getRevName()}`"
     >
   </div>
