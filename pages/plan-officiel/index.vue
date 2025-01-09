@@ -1,8 +1,8 @@
 <template>
   <div class="w-full">
     <img
-      src="/icons/PLAN OFFICIEL.jpg"
-      class="object-cover w-full h-screen"
+      src="https://cyclopolis.lavilleavelo.org/carte-voies-lyonnaises-2026.png"
+      class="object-contain w-full h-screen"
       :alt="`plan officiel des ${getRevName()}`"
     >
   </div>
