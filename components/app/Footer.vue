@@ -28,11 +28,6 @@
             <Icon :name="item.icon" class="h-6 w-6" aria-hidden="true" />
           </a>
         </div>
-        <div class="mt-8 md:mt-0 md:order-1">
-          <p class="text-center text-base text-gray-500">
-            Cyclopolis
-          </p>
-        </div>
       </div>
     </div>
   </footer>
