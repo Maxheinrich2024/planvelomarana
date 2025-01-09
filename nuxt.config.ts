@@ -41,7 +41,6 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       ],
       script: [
-      script: [
         {
           src: 'https://beamanalytics.b-cdn.net/beam.min.js',
           'data-token': process.env.BEAM_ANALYTICS_TOKEN,
