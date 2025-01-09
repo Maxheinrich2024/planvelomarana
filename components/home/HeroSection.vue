@@ -70,7 +70,7 @@
               <div
                 class="relative block w-full bg-white rounded-lg overflow-hidden"
               >
-                <img class="w-full" src="~/assets/hero.jpeg" :alt="`illustration des ${getRevName()}`">
+                <img class="w-full" src="~/assets/hero.jpg" :alt="`illustration des ${getRevName()}`">
               </div>
             </div>
           </div>
