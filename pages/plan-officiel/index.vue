@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
     <img
-      src="/PLAN OFFICIEL.jpg"
+      src="/icons/PLAN OFFICIEL.jpg"
       class="object-contain w-full h-screen"
       :alt="`plan officiel des ${getRevName()}`"
     >
