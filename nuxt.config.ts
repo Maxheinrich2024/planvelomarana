@@ -37,6 +37,10 @@ export default defineNuxtConfig({
         },
         { hid: 'twitter:image', name: 'twitter:image', content: COVER_IMAGE_URL }
       ],
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      ],
+      script: [
       script: [
         {
           src: 'https://beamanalytics.b-cdn.net/beam.min.js',
