@@ -27,8 +27,3 @@ useHead({
   ]
 });
 </script>
-<img
-class="h-12 w-auto sm:h-16"
-src="/LOGO MARANA GOLO.png" 
-alt="logo Marana Golo"
->
