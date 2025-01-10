@@ -45,33 +45,28 @@ const socials = {
 
   lvv: [
     {
-      name: 'Twitter',
-      href: 'https://twitter.com/LaVilleaVelo',
-      icon: 'mdi:twitter'
-    },
-    {
       name: 'Facebook',
-      href: 'https://www.facebook.com/lavilleavelolyon/',
+      href: 'https://www.facebook.com/maranagolo/',
       icon: 'mdi:facebook'
     },
     {
       name: 'LinkedIn',
-      href: 'https://www.linkedin.com/company/la-ville-%C3%A0-v%C3%A9lo',
+      href: 'https://www.linkedin.com/in/marana-golo/',
       icon: 'mdi:linkedin'
     },
     {
       name: 'Instagram',
-      href: 'https://www.instagram.com/lavilleavelolyon',
+      href: 'https://www.instagram.com/maranagolo',
       icon: 'mdi:instagram'
     },
     {
       name: 'Site web',
-      href: 'https://lavilleavelo.org/',
+      href: 'https://maranagolo.org/',
       icon: 'mdi:link'
     },
     {
       name: 'Email',
-      href: 'mailto:contact_at_lavilleavelo.org',
+      href: 'mailto:contact_at_maranagolo.org',
       icon: 'mdi:email-outline'
     }
   ]
